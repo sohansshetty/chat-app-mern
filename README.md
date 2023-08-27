@@ -1,9 +1,9 @@
 # Snappy - Chat Application 
 Snappy is chat application build with the power of MERN Stack.
 
-![login page](./images/snappy_login.png)
+![snappy](https://github.com/sohansshetty/chat-app-mern/assets/77954795/e6adddbd-2b68-4bee-879c-1385976cc9c8)
 
-![home page](./images/snappy.png)
+![snappy_login](https://github.com/sohansshetty/chat-app-mern/assets/77954795/7409c7ce-a2de-4f0e-a74f-da42259e1836)
 
 ## Installation Guide
 
@@ -21,8 +21,10 @@ Now rename env files from .env.example to .env
 ```shell
 cd public
 mv .env.example .env
-cd ..
-cd server
+cd ..![snappy_login](https://github.com/sohansshetty/chat-app-mern/assets/77954795/a1810afb-9afe-454e-883d-0b1efacfd39d)
+
+cd server![snappy](https://github.com/sohansshetty/chat-app-mern/assets/77954795/18e6f25e-df8e-45d3-b290-0ee517a810f4)
+
 mv .env.example .env
 cd ..
 ```
@@ -51,3 +53,5 @@ yarn start
 ```
 
 Done! Now open localhost:3000 in your browser.
+
+
